@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Starting up the application"); //testing
         System.out.println(this.toString());
 
-        string s = "something"; //example
+        string xyz = "something"; //example
 
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
